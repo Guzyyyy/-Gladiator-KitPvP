@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Gladiator KitPvP ",
+    "description": "Made by Guzy",
+    "uuid": "12fe2cad-9a69-2da5-6847-417cd4f1f66c",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      17,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "5195a988-d7bc-d4a3-e93f-4319db4868f0",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}
